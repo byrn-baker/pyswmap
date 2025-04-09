@@ -2,7 +2,7 @@
 name = "pyswmap"
 version = "0.1.0"
 description = "Creates MAP-T Addressing"
-authors = ["byrn-baker"]
+authors = ["ejordangottlieb", "byrn-baker"]
 license = "MIT"
 readme = "README.md"
 
